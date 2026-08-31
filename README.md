@@ -2,7 +2,7 @@
 
 Verifies the specific, checkable numbers in a draft before it ships. Doses, thresholds, resistance percentages, mortality figures, effect sizes, guideline names and years, registry numbers, fees, prices.
 
-This is the canonical copy. Three other plugins bundle it as a dependency.
+This is the canonical copy. Two other plugins bundle it as a dependency.
 
 ---
 
@@ -200,7 +200,7 @@ There is very little to configure, which is intentional. The skill is a procedur
 
 ## If you install more than one of these plugins
 
-`grant-reviewer`, `icu-clinical-consult`, and `citation-verification` each bundle a copy of this skill so they work standalone. Installing this repo alongside them gives you the canonical version, and if the copies drift, this one wins.
+`icu-clinical-consult` and `citation-verification` each bundle a copy of this skill so they work standalone. Installing this repo alongside them gives you the canonical version, and if the copies drift, this one wins.
 
 The marketplace repo ships `scripts/sync-fabrication-audit.sh`, which reports drift across all bundled copies and can repair it:
 

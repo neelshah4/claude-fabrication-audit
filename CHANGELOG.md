@@ -20,8 +20,8 @@ string rather than imposing a semantic version it does not have.
 ### Added
 - Initial public release as a Claude Code plugin.
 - MIT license, plugin manifest, and installable marketplace entry.
-- Declared the canonical copy; `grant-reviewer`, `icu-clinical-consult`, and
-  `citation-verification` bundle this skill as a dependency.
+- Declared the canonical copy; `icu-clinical-consult` and `citation-verification`
+  bundle this skill as a dependency.
 
 ### Changed
 - Worked examples in the jurisdiction section use neutral placeholder locations.
