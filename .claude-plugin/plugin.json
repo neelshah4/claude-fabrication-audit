@@ -1,6 +1,6 @@
 {
   "name": "fabrication-audit",
-  "version": "2026.8.29",
+  "version": "2026.9.3",
   "description": "Verification gate for non-citation specifics: doses, thresholds, percentages, guideline names, fees. Classifies every retrievable value by provenance and flags fabrications.",
   "author": {
     "name": "Neel Shah, MD, MSc"

@@ -25,3 +25,4 @@ string rather than imposing a semantic version it does not have.
 
 ### Changed
 - Worked examples in the jurisdiction section use neutral placeholder locations.
+2026-09-03: Sync from canonical: Versions entry for the 2026-08-29 Self-improvement block reworded; no procedure change.
