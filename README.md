@@ -216,7 +216,7 @@ The marketplace repo ships `scripts/sync-fabrication-audit.sh`, which reports dr
 
 ## Version
 
-`2026.8.29`, matching the skill's latest declared version date. Calendar versioning, because the skill is date-versioned. See [CHANGELOG.md](CHANGELOG.md).
+`2026.9.24`, matching the skill's latest declared version date. Calendar versioning, because the skill is date-versioned. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 
