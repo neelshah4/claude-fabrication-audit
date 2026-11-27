@@ -5,6 +5,11 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/);
 versioning is calendar-based (`YYYY.M.D`), matching the skill's own dated version
 string rather than imposing a semantic version it does not have.
 
+## [2026.11.27] - 2026-11-27
+
+### Changed
+- The skill description is reordered so the trigger phrases and the exclusion for academic citations fall inside the first 300 characters that skill listings show. No trigger, scope or procedure changed.
+
 ## [2026.9.24] - 2026-09-24
 
 ### Added
